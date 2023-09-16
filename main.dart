@@ -1,17 +1,18 @@
-// void main() {
-//   int number = 8;
+void main() {
+  int number = 8;
+  int number2 = 9;
 
-//   if (number < 10) {
-//     print("Number is less than 10");
-//     if (number % 2 == 0) {
-//       print("Number is Even");
-//     } else {
-//       print("Number is odd");
-//     }
-//   } else{
-//     print("Number is greater than $number");
-//   }
-// }
+  if (number < 10) {
+    print("Number is less than 10");
+    if (number % 2 == 0) {
+      print("Number is Even");
+    } else {
+      print("Number is odd");
+    }
+  } else{
+    print("Number is greater than $number");
+  }
+}
 
 // void main() {
 //   var name = "M.Summamah Siddiqui";
