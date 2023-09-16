@@ -1,6 +1,7 @@
 void main() {
   int number = 8;
   int number2 = 9;
+  int number3 = 9;
 
   if (number < 10) {
     print("Number is less than 10");
